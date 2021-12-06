@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/mk3-09500.mp3-05680daba7ad005b44e17b743bceff34.mp3str"
+
+[deps]
+
+source_file="res://asset/MK3/motaro/mk3-09500.mp3"
+dest_files=[ "res://.import/mk3-09500.mp3-05680daba7ad005b44e17b743bceff34.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

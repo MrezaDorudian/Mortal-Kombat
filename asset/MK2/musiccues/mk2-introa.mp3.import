@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/mk2-introa.mp3-9ad0bae9b62f8c80fd0217c069b08ab0.mp3str"
+
+[deps]
+
+source_file="res://asset/MK2/musiccues/mk2-introa.mp3"
+dest_files=[ "res://.import/mk2-introa.mp3-9ad0bae9b62f8c80fd0217c069b08ab0.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

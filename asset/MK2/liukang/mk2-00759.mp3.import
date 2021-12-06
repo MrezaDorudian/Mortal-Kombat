@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/mk2-00759.mp3-c33f226ea258e2f74c74f7c714e8b17f.mp3str"
+
+[deps]
+
+source_file="res://asset/MK2/liukang/mk2-00759.mp3"
+dest_files=[ "res://.import/mk2-00759.mp3-c33f226ea258e2f74c74f7c714e8b17f.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

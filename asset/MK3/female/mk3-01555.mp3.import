@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/mk3-01555.mp3-feb1fcda3e2823a72b6c47188ef961c3.mp3str"
+
+[deps]
+
+source_file="res://asset/MK3/female/mk3-01555.mp3"
+dest_files=[ "res://.import/mk3-01555.mp3-feb1fcda3e2823a72b6c47188ef961c3.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

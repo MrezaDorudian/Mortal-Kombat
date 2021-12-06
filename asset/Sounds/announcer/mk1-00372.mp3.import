@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/mk1-00372.mp3-8777e3bdb9329ef573feb4bfeab4bdd0.mp3str"
+
+[deps]
+
+source_file="res://asset/Sounds/announcer/mk1-00372.mp3"
+dest_files=[ "res://.import/mk1-00372.mp3-8777e3bdb9329ef573feb4bfeab4bdd0.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/mk3-00040-tlp.mp3-cc36e29765631ad91a5b3e79b4488cbf.mp3str"
+
+[deps]
+
+source_file="res://asset/MK3/longmusiccues/mk3-00040-tlp.mp3"
+dest_files=[ "res://.import/mk3-00040-tlp.mp3-cc36e29765631ad91a5b3e79b4488cbf.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

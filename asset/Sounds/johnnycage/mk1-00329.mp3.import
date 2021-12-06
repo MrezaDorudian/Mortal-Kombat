@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/mk1-00329.mp3-024bdd14bff2cee83ef32f17be22b48e.mp3str"
+
+[deps]
+
+source_file="res://asset/Sounds/johnnycage/mk1-00329.mp3"
+dest_files=[ "res://.import/mk1-00329.mp3-024bdd14bff2cee83ef32f17be22b48e.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

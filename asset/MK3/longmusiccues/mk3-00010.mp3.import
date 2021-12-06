@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/mk3-00010.mp3-2a454c17cd42c3b112e5c91272aaacf0.mp3str"
+
+[deps]
+
+source_file="res://asset/MK3/longmusiccues/mk3-00010.mp3"
+dest_files=[ "res://.import/mk3-00010.mp3-2a454c17cd42c3b112e5c91272aaacf0.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

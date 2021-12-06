@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/mk2-fatal1.mp3-a9fc648132a14d768477bf7f7c640efd.mp3str"
+
+[deps]
+
+source_file="res://asset/MK2/musiccues/mk2-fatal1.mp3"
+dest_files=[ "res://.import/mk2-fatal1.mp3-a9fc648132a14d768477bf7f7c640efd.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

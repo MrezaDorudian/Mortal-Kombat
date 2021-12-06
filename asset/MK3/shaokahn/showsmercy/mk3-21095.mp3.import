@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/mk3-21095.mp3-a13eba5cafe1c0705c416f08c212eb75.mp3str"
+
+[deps]
+
+source_file="res://asset/MK3/shaokahn/showsmercy/mk3-21095.mp3"
+dest_files=[ "res://.import/mk3-21095.mp3-a13eba5cafe1c0705c416f08c212eb75.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

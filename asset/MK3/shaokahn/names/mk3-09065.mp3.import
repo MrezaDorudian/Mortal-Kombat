@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/mk3-09065.mp3-03d62bca7eb2a7a164d46f45c7295d85.mp3str"
+
+[deps]
+
+source_file="res://asset/MK3/shaokahn/names/mk3-09065.mp3"
+dest_files=[ "res://.import/mk3-09065.mp3-03d62bca7eb2a7a164d46f45c7295d85.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

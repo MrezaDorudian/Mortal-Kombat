@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/mk2-00262.mp3-17582ee7d73d023498e6b6218afd6725.mp3str"
+
+[deps]
+
+source_file="res://asset/MK2/arenas/mk2-00262.mp3"
+dest_files=[ "res://.import/mk2-00262.mp3-17582ee7d73d023498e6b6218afd6725.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

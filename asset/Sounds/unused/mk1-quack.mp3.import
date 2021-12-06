@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/mk1-quack.mp3-b011e9fc7e52702a18933d2ecb21a282.mp3str"
+
+[deps]
+
+source_file="res://asset/Sounds/unused/mk1-quack.mp3"
+dest_files=[ "res://.import/mk1-quack.mp3-b011e9fc7e52702a18933d2ecb21a282.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

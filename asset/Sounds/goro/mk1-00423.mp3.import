@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/mk1-00423.mp3-a672e13c8b40e60e15c434b41010bc08.mp3str"
+
+[deps]
+
+source_file="res://asset/Sounds/goro/mk1-00423.mp3"
+dest_files=[ "res://.import/mk1-00423.mp3-a672e13c8b40e60e15c434b41010bc08.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

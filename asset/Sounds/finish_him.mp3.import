@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/finish_him.mp3-64e32fc4b95dd11e778cd49a1a3bd540.mp3str"
+
+[deps]
+
+source_file="res://asset/Sounds/finish_him.mp3"
+dest_files=[ "res://.import/finish_him.mp3-64e32fc4b95dd11e778cd49a1a3bd540.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/fatality.mp3-4955d6c44d473e38748d19f39245c00e.mp3str"
+
+[deps]
+
+source_file="res://asset/Sounds/fatality.mp3"
+dest_files=[ "res://.import/fatality.mp3-4955d6c44d473e38748d19f39245c00e.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/mk2-end5b.mp3-5757560055d658976d2c62093952cdc8.mp3str"
+
+[deps]
+
+source_file="res://asset/MK2/musiccues/mk2-end5b.mp3"
+dest_files=[ "res://.import/mk2-end5b.mp3-5757560055d658976d2c62093952cdc8.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

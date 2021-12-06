@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/mk2-fbone1.mp3-c0d1181dae82592d74956e41bc4ab904.mp3str"
+
+[deps]
+
+source_file="res://asset/MK2/musiccues/mk2-fbone1.mp3"
+dest_files=[ "res://.import/mk2-fbone1.mp3-c0d1181dae82592d74956e41bc4ab904.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

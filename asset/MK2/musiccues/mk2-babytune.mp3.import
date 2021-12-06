@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/mk2-babytune.mp3-3b25a6025bf530cb7a7766e6a4e08492.mp3str"
+
+[deps]
+
+source_file="res://asset/MK2/musiccues/mk2-babytune.mp3"
+dest_files=[ "res://.import/mk2-babytune.mp3-3b25a6025bf530cb7a7766e6a4e08492.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

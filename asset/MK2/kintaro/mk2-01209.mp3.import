@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/mk2-01209.mp3-7826022c872254c3b9b836f2690b025e.mp3str"
+
+[deps]
+
+source_file="res://asset/MK2/kintaro/mk2-01209.mp3"
+dest_files=[ "res://.import/mk2-01209.mp3-7826022c872254c3b9b836f2690b025e.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

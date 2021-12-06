@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/mk1-00376.mp3-34dee6eec391d7ac7dcfa1d2256cc75b.mp3str"
+
+[deps]
+
+source_file="res://asset/Sounds/announcer/mk1-00376.mp3"
+dest_files=[ "res://.import/mk1-00376.mp3-34dee6eec391d7ac7dcfa1d2256cc75b.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

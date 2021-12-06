@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/mk1-00253.mp3-52eea84b269e99de85841754c6b5ea39.mp3str"
+
+[deps]
+
+source_file="res://asset/Sounds/unused/mk1-00253.mp3"
+dest_files=[ "res://.import/mk1-00253.mp3-52eea84b269e99de85841754c6b5ea39.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

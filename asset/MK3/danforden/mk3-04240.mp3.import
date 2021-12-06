@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/mk3-04240.mp3-933eb34663fc483b78fe7b5fbea11927.mp3str"
+
+[deps]
+
+source_file="res://asset/MK3/danforden/mk3-04240.mp3"
+dest_files=[ "res://.import/mk3-04240.mp3-933eb34663fc483b78fe7b5fbea11927.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

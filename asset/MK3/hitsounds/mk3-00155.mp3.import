@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/mk3-00155.mp3-c5594bb30fae30f5a8ccabd211c3accc.mp3str"
+
+[deps]
+
+source_file="res://asset/MK3/hitsounds/mk3-00155.mp3"
+dest_files=[ "res://.import/mk3-00155.mp3-c5594bb30fae30f5a8ccabd211c3accc.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

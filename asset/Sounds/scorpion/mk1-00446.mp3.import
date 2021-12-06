@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/mk1-00446.mp3-6b5dd60d5e2b0881a53f673e2f7c309f.mp3str"
+
+[deps]
+
+source_file="res://asset/Sounds/scorpion/mk1-00446.mp3"
+dest_files=[ "res://.import/mk1-00446.mp3-6b5dd60d5e2b0881a53f673e2f7c309f.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

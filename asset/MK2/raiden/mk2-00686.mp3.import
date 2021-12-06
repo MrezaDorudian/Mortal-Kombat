@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/mk2-00686.mp3-40a575861f0dacb2932e614933bc5791.mp3str"
+
+[deps]
+
+source_file="res://asset/MK2/raiden/mk2-00686.mp3"
+dest_files=[ "res://.import/mk2-00686.mp3-40a575861f0dacb2932e614933bc5791.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

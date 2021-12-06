@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/mk3-07005.mp3-059108546cc59458ffab5a27d4a09c2b.mp3str"
+
+[deps]
+
+source_file="res://asset/MK3/cyborg/mk3-07005.mp3"
+dest_files=[ "res://.import/mk3-07005.mp3-059108546cc59458ffab5a27d4a09c2b.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

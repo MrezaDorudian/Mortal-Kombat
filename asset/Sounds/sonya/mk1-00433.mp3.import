@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/mk1-00433.mp3-6aabcd2c4776a304881feaa71ce06b5c.mp3str"
+
+[deps]
+
+source_file="res://asset/Sounds/sonya/mk1-00433.mp3"
+dest_files=[ "res://.import/mk1-00433.mp3-6aabcd2c4776a304881feaa71ce06b5c.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
