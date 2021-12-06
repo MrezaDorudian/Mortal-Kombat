@@ -1,0 +1,9 @@
+BeingHit
+Block
+Fall
+Kick
+Punch
+Special
+Stance
+Victory
+Walk

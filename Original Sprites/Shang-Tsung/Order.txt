@@ -1,0 +1,7 @@
+BeingHit
+Fall
+Morphs
+Special
+Stance
+Victory
+Walk

@@ -1,0 +1,14 @@
+BeingHit
+Block
+BodyParts
+Dizzy
+DuckJump
+Fall
+Fatality
+Kick
+Punch
+Special
+Stance
+Throw
+Victory
+Walk
