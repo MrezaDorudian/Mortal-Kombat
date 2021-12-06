@@ -1,0 +1,90 @@
+[gd_scene load_steps=10 format=2]
+
+[ext_resource path="res://asset/Sounds/Music.mp3" type="AudioStream" id=1]
+[ext_resource path="res://asset/01.png" type="Texture" id=2]
+[ext_resource path="res://Main_Scene.gd" type="Script" id=3]
+[ext_resource path="res://asset/base_health.png" type="Texture" id=4]
+[ext_resource path="res://asset/progress_health.png" type="Texture" id=5]
+[ext_resource path="res://asset/Sounds/finish_him.mp3" type="AudioStream" id=6]
+
+[sub_resource type="RectangleShape2D" id=1]
+extents = Vector2( 520, 48 )
+
+[sub_resource type="SegmentShape2D" id=2]
+a = Vector2( -6.10352e-05, 608 )
+b = Vector2( 0, -8 )
+
+[sub_resource type="Animation" id=3]
+resource_name = "Finish_him"
+tracks/0/type = "audio"
+tracks/0/path = NodePath("AudioStreamPlayer")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"clips": [ {
+"end_offset": 0.0,
+"start_offset": 0.0,
+"stream": ExtResource( 6 )
+} ],
+"times": PoolRealArray( 0 )
+}
+
+[node name="Node2D" type="Node2D"]
+script = ExtResource( 3 )
+
+[node name="01" type="Sprite" parent="."]
+position = Vector2( 512, 304 )
+scale = Vector2( 2.56, 2.3622 )
+texture = ExtResource( 2 )
+
+[node name="StaticBody2D" type="StaticBody2D" parent="."]
+
+[node name="Ground" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2( 520, 560 )
+shape = SubResource( 1 )
+
+[node name="Left" type="CollisionShape2D" parent="StaticBody2D"]
+shape = SubResource( 2 )
+
+[node name="Left2" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2( 1024, 8 )
+shape = SubResource( 2 )
+
+[node name="Music" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 1 )
+volume_db = -10.0
+autoplay = true
+
+[node name="Health_1" type="TextureProgress" parent="."]
+margin_left = 1.0
+margin_top = 3.0
+margin_right = 251.0
+margin_bottom = 33.0
+value = 100.0
+texture_under = ExtResource( 4 )
+texture_progress = ExtResource( 5 )
+tint_progress = Color( 0.0784314, 0.705882, 0.0784314, 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Health_2" type="TextureProgress" parent="."]
+margin_left = 773.0
+margin_top = 3.0
+margin_right = 1023.0
+margin_bottom = 33.0
+value = 100.0
+texture_under = ExtResource( 4 )
+texture_progress = ExtResource( 5 )
+tint_progress = Color( 0.0784314, 0.705882, 0.0784314, 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 6 )
+
+[node name="voices" type="AnimationPlayer" parent="."]
+anims/Finish_him = SubResource( 3 )
